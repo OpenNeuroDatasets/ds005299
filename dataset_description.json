@@ -15,15 +15,15 @@
     "BIDSVersion": "1.8.0",
     "DatasetDOI": "",
     "Funding": [
-        "Intramural Research Program of the National Institute of Mental Health (annual report ZIAMH002783); J.F. & D.A.H",
         "NIH AG063843; EGJ",
-        "NIH T32 AG00096-40; DC",
         "NIH F99AG07979; LP",
         "ReproGrants; HG, EGJ, ERC",
         "UC Academic Senate; EGJ",
         "UC Irvine Campus Funds; ERC",
         "UC Irvine Campus Funds (ERC)",
-        "Ann S. Bowers Women's Brain Health Initiative (EGJ, CT)"
+        "Intramural Research Program of the National Institute of Mental Health (annual report ZIAMH002783); J.F. & D.A.H",
+        "Ann S. Bowers Women's Brain Health Initiative (EGJ, CT)",
+        "NIH T32 AG00096-40; DC"
     ],
     "HowToAcknowledge": "When using this data, please cite: \nPritschet, L., Taylor, C. M., Cossio, D., Faskowitz, J., Santander, T., Handwerker, D. A., ... & Jacobs, E. G. (2023). Neuroanatomical changes observed over the course of a human pregnancy. bioRxiv, 2023-12 ",
     "License": "CC0",
